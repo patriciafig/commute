@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (4.6.0)
+  - Mapbox-iOS-SDK (3.7.6)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - Mapbox-iOS-SDK (~> 3.7)
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  Mapbox-iOS-SDK: 23ececda1d90c3b436b45e2c88e9677f025303c0
+
+PODFILE CHECKSUM: bd54c9406f1d91b7c6fe7c80f9db1bdf62da0357
+
+COCOAPODS: 1.4.0
