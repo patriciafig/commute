@@ -31,6 +31,9 @@ class ViewController: UIViewController {
         self.btnVehiclePosition.layer.cornerRadius = 5
         self.btnSetNotification.layer.cornerRadius = 5
         
+        CommuteAPI.tripUpdates { tripUpdates in
+            print(tripUpdates)
+        }
     }
 
     override func didReceiveMemoryWarning() {
